@@ -1,0 +1,54 @@
+(*Only required files shown)
+CODING PUZZLES APP ROOT DIR:
+├── analysis_options.yaml
+├── android
+├── build
+├── Extras
+│   └── resources.txt
+├── images
+│   ├── logo.gif
+│   └──  logo.jpg
+├── ios
+├── lib
+│   ├── main.dart
+│   ├── models
+│   ├── screens
+│   └── services
+├── pubspec.lock
+├── pubspec.yaml
+├── README.md
+├── test
+└── web
+
+
+
+Extras
+├── Presentation.pptx
+├── AppArchitecture.drawio
+├── AppDBModel.drawio
+├── AppFilesDataFlow.drawio
+├── AppFilesTree.drawio
+├── AppLayout.drawio
+├── AppLayout.pdf
+├── AppLayout.png
+├── AppUserDataFlow.drawio
+└── resources.txt
+
+
+lib
+├── main.dart
+├── models
+│   └── user.dart
+├── screens
+│   ├── authenticate
+│   │   ├── authenticate.dart
+│   │   ├── register.dart
+│   │   └── sign_in.dart
+│   ├── home
+│   │   ├── draggable_lines.dart
+│   │   ├── home.dart
+│   │   └── puzzle.dart
+│   ├── splash.dart
+│   └── wrapper.dart
+└── services
+ └── auth.dart
